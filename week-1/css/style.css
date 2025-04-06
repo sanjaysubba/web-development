@@ -1,0 +1,12 @@
+.text-red {
+  color: red;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.ratio-100x100 {
+  width: 100px;
+  height: 100px;
+}
